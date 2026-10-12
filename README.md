@@ -34,4 +34,31 @@ first I normally type CSS3 without any problem and I make a normal theme. After 
 ## How To Run
 
 ```bash
-git clone 
+git clone https://prince-as-developerair-1.github.io/Ouiz-Time---On-Hacker-Theme/.git
+cd quiz-game```
+
+----
+
+## Author
+
+Made by 14 y/o hacker
+
+---
+
+## Support
+
+if you like this project, give it a star!
+
+---
+
+### Some photos while working
+
+<img width="1362" height="725" alt="Screenshot 2026-10-12 203950" src="https://github.com/user-attachments/assets/5087364c-31dd-440e-b562-a68915b0cf8a" />
+
+<img width="1365" height="724" alt="Screenshot 2026-10-12 204026" src="https://github.com/user-attachments/assets/c311cb7e-c2ee-4a44-b967-87136ec60718" />
+
+<img width="1365" height="725" alt="Screenshot 2026-10-12 204046" src="https://github.com/user-attachments/assets/ec15ab07-90cd-478b-8fa7-5182215c84a9" />
+
+<img width="1363" height="727" alt="Screenshot 2026-10-12 204132" src="https://github.com/user-attachments/assets/ccfd242a-ca98-4afc-ab6a-ce6d3f1ef0eb" />
+
+---
