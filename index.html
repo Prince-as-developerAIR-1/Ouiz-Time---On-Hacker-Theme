@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz Game - By Me</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Quiz Time!</h1>
+    <p class="sub">Test your knowledge with these fun questions</p>
+
+    <div id="quiz-box">
+        <button onclick="startQuiz()">Start Quiz</button>
+
+        <h2 id="question">Question goes here</h2>
+
+        <div id="options"></div>
+
+        <div id="info">
+            <span id="progress">Question 1 of 5</span>
+            <span id="score">score: 0</span>
+        </div>
+    </div>
+
+    <div id="result">
+        <h2>Quiz Results</h2>
+        <p id="final-score">You scored 0 out of 5</p>
+        <p id="msg">good job</p>
+        <button onclick="restartQuiz()">Restart Quiz</button>
+    </div>
+</div>
+<script src="javascript.js"></script>
+</body>
+</html>

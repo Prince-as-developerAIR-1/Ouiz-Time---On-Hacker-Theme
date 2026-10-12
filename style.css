@@ -1,0 +1,14 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family: monospace;}
+body{background:black;min-height:100vh;display:flex;justify-content:center;align-items:center;}
+.box{background:#0a0a0a;width:90%;max-width:500px;padding:25px;border:2px solid #00ff41;box-shadow:0 0 20px #00ff41;border-radius:10px;}
+h1{color:#00ff41;text-shadow:0 0 8px #00ff41;}
+p{color:#008f11;font-size:12px;margin:5px 0 15px 0;}
+button{background:#00ff41;color:black;border:2px solid #00ff41;padding:8px 18px;font-weight:bold;cursor:pointer;box-shadow:0 0 10px #00ff41;}
+#question{background:#111;color:#00ff41;border:1px solid #00ff41;padding:12px;margin:15px 0;}
+.option{background:#111;color:#00ff41;border:1px dashed #008f11;padding:10px;margin:8px 0;cursor:pointer;}
+.option:hover{background:#00ff41;color:black;transform:translateX(8px);}
+#progress,#score{background:#111;color:#00ff41;border:1px solid #00ff41;padding:4px 8px;font-size:11px;}
+#result h2{color:#00ff41;margin-bottom:10px;}
+#finalScore{color:#00ff41;}
+.correct{background:#00ff41!important;color:black!important;}
+.wrong{background:#ff0040!important;color:white!important;}
