@@ -33,9 +33,10 @@ first I normally type CSS3 without any problem and I make a normal theme. After 
 
 ## How To Run
 
-```bash
+```
 git clone https://prince-as-developerair-1.github.io/Ouiz-Time---On-Hacker-Theme/.git
-cd quiz-game```
+cd quiz-game
+```
 
 ----
 
